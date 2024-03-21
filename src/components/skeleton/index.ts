@@ -1,0 +1,16 @@
+export { default as SkeletonMap } from "./SkeletonMap";
+export { default as SkeletonBox } from "./SkeletonBox";
+export { default as SkeletonPost } from "./SkeletonPost";
+export { default as SkeletonChart } from "./SkeletonChart";
+export { default as SkeletonTable } from "./SkeletonTable";
+export { default as SkeletonProduct } from "./SkeletonProduct";
+export { default as SkeletonPostItem } from "./SkeletonPostItem";
+export { default as SkeletonBoxTable } from "./SkeletonBoxTable";
+export { default as SkeletonChartTable } from "./SkeletonChartTable";
+export { default as SkeletonProductItem } from "./SkeletonProductItem";
+export { default as SkeletonServiceTable } from "./SkeletonServiceTable";
+export { default as SkeletonKanbanColumn } from "./SkeletonKanbanColumn";
+export { default as SkeletonSettingHistory } from "./SkeletonSettingHistory";
+export { default as SkeletonMailSidebarItem } from "./SkeletonMailSidebarItem";
+export { default as SkeletonConversationItem } from "./SkeletonConversationItem";
+export { default as SkeletonServiceDashboadMetric } from "./SkeletonServiceDashboadMetric";

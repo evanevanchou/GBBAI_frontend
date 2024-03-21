@@ -1,0 +1,53 @@
+/* scrollbar */
+@import 'simplebar-react/dist/simplebar.min.css';
+
+/* lazy image */
+@import 'react-lazy-load-image-component/src/effects/blur.css';
+
+/* map */
+@import 'mapbox-gl/dist/mapbox-gl.css';
+
+/* editor */
+@import 'react-quill/dist/quill.snow.css';
+
+/* carousel */
+@import 'slick-carousel/slick/slick.css';
+@import 'slick-carousel/slick/slick-theme.css';
+
+/* lightbox */
+@import 'yet-another-react-lightbox/styles.css';
+@import 'yet-another-react-lightbox/plugins/captions.css';
+@import 'yet-another-react-lightbox/plugins/thumbnails.css';
+
+.ace-twilight .ace_gutter {
+    background: none;
+}
+
+.ace-github .ace_gutter {
+    background: none;
+}
+
+.ace-tm .ace_gutter {
+    background: none;
+    color: #2E718A
+}
+
+.ace-tm .ace_gutter-active-line {
+    background: none;
+    font-weight: bold;
+}
+
+.ace-twilight .ace_gutter-active-line {
+    background: none;
+    font-weight: bold;
+}
+
+.ace-tomorrow-night-bright .ace_gutter {
+    background: none;
+    color: #919EAB
+}
+
+.ace-tomorrow-night-bright .ace_gutter-active-line {
+    background: none;
+    font-weight: bold;
+}
